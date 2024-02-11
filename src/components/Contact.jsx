@@ -12,7 +12,7 @@ const Contact = () => {
                             <div className="flex flex-col justify-center space-y-2">
                               <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl text-BenefitsColor">Entre em contato conosco</h2>
                               <p className="max-w-prose text-BenefitsColor font-light md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed ">
-                              Preencha este formulário e nossa equipe entrará em contato assim que possível.
+                              Preencha este formulário e nós entraremos em contato assim que possível.
                               </p>
                             </div>
 
