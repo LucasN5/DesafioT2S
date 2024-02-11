@@ -11,7 +11,7 @@ Nós acreditamos que o sucesso de um projeto está enraizado na qualidade de sua
         </div>
 
         <div className="relative">
-            <img src="./src/assets/GlassdoorT2S.png" alt="Estatisticas da empresa T2S no site Glassdoor" className="relative z-10 drop-shadow-right-bottom"/>
+            <img src="./src/assets/img/GlassdoorT2S.png" alt="Estatisticas da empresa T2S no site Glassdoor" className="relative z-10 drop-shadow-right-bottom"/>
             <div className="absolute -top-10 right-1 bg-AboutColor drop-shadow-right-bottom  w-96 h-96 z-0"></div>
         </div>
     </div>

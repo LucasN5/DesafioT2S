@@ -3,8 +3,8 @@ import Home from './components/Home'
 import NavBar from './components/NavBar'
 import About from './components/About'
 import Product from './components/Product'
-import Benefits from './components/benefits'
-import Contact from './components/contact'
+import Benefits from './components/Benefits'
+import Contact from './components/Contact'
 
 function App() {
 
