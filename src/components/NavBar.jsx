@@ -4,7 +4,7 @@ const NavBar = () => {
   return (
     <div className="bg-NavBarColor text-white">
         <nav className="flex justify-around gap-40 bg-HomeColor  pt-2 ">
-            <img src="./src/assets/img/LogoTipoT2S.png" alt="Logo da T2S" className="h-10 w-28 mx-5"/>
+            <img src="/img/LogoTipoT2S.png" alt="Logo da T2S" className="h-10 w-28 mx-5"/>
 
             <ul className="flex gap-5 cursor-pointer text-BenefitsColor font-medium m-3">
                 <a href="#home"><li>Ínicio</li></a>

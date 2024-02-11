@@ -31,7 +31,7 @@ const Product = () => {
     <div className=" grid grid-cols-2 p-32 py-20 h-screen w-screen bg-BgDarkBlue " id="product">
         <div className="relative flex flex-row ">
             <div className="absolute -top-9 -left-9 bg-BenefitsColor drop-shadow-right-bottom w-3/5 h-3/5 z-0"></div>
-            <img src="./src/assets/img/ProdutoEx.jpg" alt="Pessoas analisando quadro de gestão organizacional de projetos" className="h-3/5 relative z-10 drop-shadow-right-bottom"/>
+            <img src="/img/ProdutoEx.jpg" alt="Pessoas analisando quadro de gestão organizacional de projetos" className="h-3/5 relative z-10 drop-shadow-right-bottom"/>
         </div>
 
         <div className=" flex flex-col gap-3">
